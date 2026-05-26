@@ -1,2 +1,8 @@
-# DataScience-Portfolio
-Data science portfolio by Koch — covering exploratory data analysis, visualization, and machine learning projects. Specializing in real estate analytics, market intelligence, and business insights. Python | SQL | Power BI
+# Koch's Data Science Portfolio
+
+A growing collection of data science and analytics projects.
+Currently working on: Nigerian Real Estate Market Analysis
+
+**Tools:** Python | SQL | Power BI | Pandas | Matplotlib
+
+**Status:** 🚧 Under Construction — First project launching soon.
